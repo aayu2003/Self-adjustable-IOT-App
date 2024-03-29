@@ -1,1 +1,2 @@
 # Self-adjustable-IOT-App
+the QR app is the  kivy IOT app which dynamically extract the information regarding the number of number of pie-charts , static data type and progress bars is required from the cloud . The cloud contains the credentials of the user's database and how every unit of the QR app is synced with user's cloud . the app.py file is the flask API which is used to gather information from the HTML page and push it to the cloud , provide the connection knowledge for QR app and retreving data from the firebase to the app or the HTML page for the display . 
